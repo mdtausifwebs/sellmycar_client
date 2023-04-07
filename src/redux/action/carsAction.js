@@ -1,5 +1,6 @@
 import axios from "axios";
-const url = "http://localhost:4000/api/v1/";
+// const url = "http://localhost:4000/api/v1/";
+const url="https://sellmycar-server.onrender.com/api/v1/"
 const ApiUrl = axios.create({ baseURL: url });
 const config = {
   headers: {
