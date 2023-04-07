@@ -1,0 +1,656 @@
+
+  {
+    "companylist": [
+        "",
+      "Maruti Suzuki",
+      "Hyundai",
+      "Tata Motors",
+      "Mahindra",
+      "Kia",
+      "Toyota",
+      "Honda",
+      "Renault",
+      "Skoda",
+      "MG"
+    ],
+
+    "Maruti Suzuki": [
+      {
+        "model": "Maruti Alto",
+        "price": "Rs. 3.54 lakhs to Rs. 5.13 lakhs",
+        "color": "",
+        "age": "",
+        "max_speed": ""
+      },
+      {
+        "model": "Maruti Alto K10",
+        "price": "Rs. 3.99 lakhs to Rs. 5.95 lakhs",
+        "color": "",
+        "age": "",
+        "max_speed": ""
+      },
+      {
+        "model": "Maruti S-Presso",
+        "price": "Rs. 4.25 lakhs to 6.10 lakhs",
+        "color": "",
+        "age": "",
+        "max_speed": ""
+      },
+      {
+        "model": "Maruti Eeco",
+        "price": "Rs. 5.25 lakhs to Rs. 6.51 lakhs",
+        "color": "",
+        "age": "",
+        "max_speed": ""
+      },
+      {
+        "model": "Maruti Wagon R",
+        "price": "Rs. 5.53 lakhs to Rs. 7.41 lakhs",
+        "color": "",
+        "age": "",
+        "max_speed": ""
+      },
+      {
+        "model": "Maruti Celerio",
+        "price": "Rs. 5.35 lakhs to Rs. 7.13 lakhs",
+        "color": "",
+        "age": "",
+        "max_speed": ""
+      },
+      {
+        "model": "Maruti Ignis",
+        "price": "Rs. 5.55 lakhs to Rs. 7.87 lakhs",
+        "color": "",
+        "age": "",
+        "max_speed": ""
+      },
+      {
+        "model": "Maruti Swift",
+        "price": "Rs. 6 lakhs to Rs. 8.98 lakhs",
+        "color": "",
+        "age": "",
+        "max_speed": ""
+      },
+      {
+        "model": "Maruti Dzire",
+        "price": "Rs. 6.44 lakhs to Rs. 9.31 lakhs",
+        "color": "",
+        "age": "",
+        "max_speed": ""
+      },
+      {
+        "model": "Maruti Baleno",
+        "price": "Rs. 6.56 lakhs to Rs. 9.83 lakhs",
+        "color": "",
+        "age": "",
+        "max_speed": ""
+      },
+      {
+        "model": "Maruti Vitara Brezza",
+        "price": "Rs. 8.19 lakhs to Rs. 14.04 lakhs",
+        "color": "",
+        "age": "",
+        "max_speed": ""
+      },
+      {
+        "model": "Maruti Ertiga",
+        "price": "Rs. 8.35 lakhs to Rs. 12.79 lakhs",
+        "color": "",
+        "age": "",
+        "max_speed": ""
+      },
+      {
+        "model": "Maruti S-Cross",
+        "price": "Rs. 8.59 lakhs to Rs. 12.56 lakhs",
+        "color": "",
+        "age": "",
+        "max_speed": ""
+      },
+      {
+        "model": "Maruti Ciaz",
+        "price": "Rs. 9.20 lakhs to Rs. 12.19 lakhs",
+        "color": "",
+        "age": "",
+        "max_speed": ""
+      },
+      {
+        "model": "Maruti Grand Vitara",
+        "price": "Rs. 10.45 to Rs. 19.65 lakhs",
+        "color": "",
+        "age": "",
+        "max_speed": ""
+      },
+      {
+        "model": "Maruti XL6",
+        "price": "Rs. 11.41 lakhs to Rs. 14.67 lakhs",
+        "color": "",
+        "age": "",
+        "max_speed": ""
+      }
+    ],
+    "Hyundai": [
+      {
+        "model": "Hyundai Santro",
+        "price": "Rs. 4.77 lakhs to Rs. 6.45 lakhs",
+        "color": "",
+        "age": "",
+        "max_speed": "156 kmph"
+      },
+      {
+        "model": "Hyundai Grand i10 Nios",
+        "price": "Rs. 5.68 lakhs to Rs. 8.46 lakhs",
+        "color": "",
+        "age": "",
+        "max_speed": ""
+      },
+      {
+        "model": "Hyundai Aura",
+        "price": "Rs. 6.30 lakhs to Rs. 8.87 lakhs",
+        "color": "",
+        "age": "",
+        "max_speed": ""
+      },
+      {
+        "model": "Hyundai i20",
+        "price": "Rs. 7.19 lakhs to Rs. 11.83 lakhs",
+        "color": "",
+        "age": "",
+        "max_speed": ""
+      },
+      {
+        "model": "Hyundai Venue",
+        "price": "Rs. 7.68 lakhs to Rs. 13.11 lakhs",
+        "color": "",
+        "age": "",
+        "max_speed": ""
+      },
+      {
+        "model": "Hyundai Verna",
+        "price": "Rs. 9.64 lakhs to Rs. 15.72 lakhs",
+        "color": "",
+        "age": "",
+        "max_speed": ""
+      },
+      {
+        "model": "Hyundai i20 N Line",
+        "price": "Rs. 10.16 lakhs to Rs. 12.27 lakhs",
+        "color": "",
+        "age": "",
+        "max_speed": ""
+      },
+      {
+        "model": "Hyundai Creta",
+        "price": "Rs. 10.64 lakhs to Rs. 18.68 lakhs",
+        "color": "",
+        "age": "",
+        "max_speed": ""
+      },
+      {
+        "model": "Hyundai Venue N Line",
+        "price": "Rs. 12.60 lakhs to Rs. 13.74 lakhs",
+        "color": "",
+        "age": "",
+        "max_speed": ""
+      },
+      {
+        "model": "Hyundai Alcazar",
+        "price": "Rs. 16.10 lakhs to Rs. 20.65 lakhs",
+        "color": "",
+        "age": "",
+        "max_speed": ""
+      },
+      {
+        "model": "Hyundai Tucson",
+        "price": "Rs. 28.50 lakhs to Rs. 35.34 lakhs",
+        "color": "",
+        "age": "",
+        "max_speed": ""
+      },
+      {
+        "model": "Hyundai Kona Electric",
+        "price": "Rs. 23.84 lakhs to Rs. 24.03 lakhs",
+        "color": "",
+        "age": "",
+        "max_speed": ""
+      },
+      {
+        "model": "Hyundai iONIQ 5",
+        "price": "Rs. 44.95 lakhs",
+        "color": "",
+        "age": "",
+        "max_speed": ""
+      }
+    ],
+    "Tata Motors": [
+      {
+        "model": "Tata Tiago",
+        "price": "Rs. 5.54 lakhs to Rs. 8.05 lakhs",
+        "color": "",
+        "age": "",
+        "max_speed": ""
+      },
+      {
+        "model": "Tata Punch",
+        "price": "Rs. 6 lakhs to Rs. 9.54 lakhs",
+        "color": "",
+        "age": "",
+        "max_speed": ""
+      },
+      {
+        "model": "Tata Tigor",
+        "price": "Rs. 6.20 lakhs to Rs. 8.90 lakhs",
+        "color": "",
+        "age": "",
+        "max_speed": ""
+      },
+      {
+        "model": "Tata Altroz",
+        "price": "Rs. 6.45 lakhs to Rs. 10.40 lakhs",
+        "color": "",
+        "age": "",
+        "max_speed": ""
+      },
+      {
+        "model": "Tata Tiago NRG",
+        "price": "Rs. 6.62 lakhs to Rs. 7.95 lakhs",
+        "color": "",
+        "age": "",
+        "max_speed": ""
+      },
+      {
+        "model": "Tata Nexon",
+        "price": "Rs. 7.80 lakhs to Rs. 14.30 lakhs",
+        "color": "",
+        "age": "",
+        "max_speed": ""
+      },
+      {
+        "model": "Tata Tiago EV",
+        "price": "Rs. 8.69 lakhs to Rs. 11.99 lakhs",
+        "color": "",
+        "age": "",
+        "max_speed": ""
+      },
+      {
+        "model": "Tata Tigor EV",
+        "price": "Rs. 12.49 lakhs to Rs. 13.75 lakhs",
+        "color": "",
+        "age": "",
+        "max_speed": ""
+      },
+      {
+        "model": "Tata Nexon EV Prime",
+        "price": "Rs. 14.49 lakhs to Rs. 17.50 lakhs",
+        "color": "",
+        "age": "",
+        "max_speed": ""
+      },
+      {
+        "model": "Tata Harrier",
+        "price": "Rs. 15 lakhs to Rs. 22.60 lakhs",
+        "color": "",
+        "age": "",
+        "max_speed": ""
+      },
+      {
+        "model": "Tata Safari",
+        "price": "Rs. 15.65 lakhs to Rs. 24.01 lakhs",
+        "color": "",
+        "age": "",
+        "max_speed": ""
+      },
+      {
+        "model": "Tata Nexon EV Max",
+        "price": "Rs. 16.49 lakhs to Rs. 18.99 lakhs",
+        "color": "",
+        "age": "",
+        "max_speed": ""
+      }
+    ],
+    "Mahindra": [
+      {
+        "model": "Mahindra KUV100 NXT",
+        "price": "Rs. 6.18 lakhs to Rs. 7.84 lakhs",
+        "color": "",
+        "age": "",
+        "max_speed": ""
+      },
+      {
+        "model": "Mahindra XUV300",
+        "price": "Rs. 8.41 lakhs to Rs. 14.07 lakhs",
+        "color": "",
+        "age": "",
+        "max_speed": ""
+      },
+      {
+        "model": "Mahindra Bolero",
+        "price": "Rs. 9.53 lakhs to Rs. 10.48 lakhs",
+        "color": "",
+        "age": "",
+        "max_speed": ""
+      },
+      {
+        "model": "Mahindra Bolero Neo",
+        "price": "Rs. 9.48 lakhs to Rs. 11.99 lakhs",
+        "color": "",
+        "age": "",
+        "max_speed": ""
+      },
+      {
+        "model": "Mahindra eVerito (Electric)",
+        "price": "Rs. 9.13 lakhs to Rs. 9.46 lakhs",
+        "color": "",
+        "age": "",
+        "max_speed": ""
+      },
+      {
+        "model": "Mahindra Scorpio-N",
+        "price": "Rs. 12.74 lakhs to Rs. 24.05 lakhs",
+        "color": "",
+        "age": "",
+        "max_speed": ""
+      },
+      {
+        "model": "Mahindra Marazzo",
+        "price": "Rs. 13.71 lakhs to Rs. 16.03 lakhs",
+        "color": "",
+        "age": "",
+        "max_speed": ""
+      },
+      {
+        "model": "Mahindra XUV700",
+        "price": "Rs. 13.45 lakhs to Rs. 25.48 lakhs",
+        "color": "",
+        "age": "",
+        "max_speed": ""
+      },
+      {
+        "model": "Mahindra Scorpio Classic",
+        "price": "Rs. 12.64 lakhs to Rs. 16.14 lakhs",
+        "color": "",
+        "age": "",
+        "max_speed": ""
+      },
+      {
+        "model": "Mahindra Thar",
+        "price": "Rs. 9.99 lakhs to Rs. 16.49 lakhs",
+        "color": "",
+        "age": "",
+        "max_speed": ""
+      },
+      {
+        "model": "Mahindra XUV400 EV",
+        "price": "Rs. 15.99 lakhs to Rs. 18.99 lakhs",
+        "color": "",
+        "age": "",
+        "max_speed": ""
+      },
+      {
+        "model": "Mahindra Alturas G4",
+        "price": "Rs. 28.77 lakhs to Rs. 31.77 lakhs",
+        "color": "",
+        "age": "",
+        "max_speed": ""
+      }
+    ],
+    "Kia": [
+      {
+        "model": "Kia Sonet",
+        "price": "Rs. 7.69 lakhs to Rs. 14.39 lakhs",
+        "color": "",
+        "age": "",
+        "max_speed": ""
+      },
+      {
+        "model": "Kia Seltos",
+        "price": "Rs. 10.69 lakhs to Rs. 19.15 lakhs",
+        "color": "",
+        "age": "",
+        "max_speed": ""
+      },
+      {
+        "model": "Kia Carens",
+        "price": "Rs. 10.20 lakhs to Rs. 18.45 lakhs",
+        "color": "",
+        "age": "",
+        "max_speed": ""
+      },
+      {
+        "model": "Kia Carnival",
+        "price": "Rs. 30.99 lakhs to Rs. 35.49 lakhs",
+        "color": "",
+        "age": "",
+        "max_speed": ""
+      },
+      {
+        "model": "Kia EV6",
+        "price": "Rs. 60.95 lakhs to Rs. 65.95 lakhs",
+        "color": "",
+        "age": "",
+        "max_speed": ""
+      }
+    ],
+    "Toyota": [
+      {
+        "model": "Toyota Glanza",
+        "price": "Rs. 6.66 lakhs to Rs. 9.99 lakhs",
+        "color": "",
+        "age": "",
+        "max_speed": ""
+      },
+      {
+        "model": "Toyota Urban Cruiser Hyryder",
+        "price": "Rs. 10.48 lakhs to Rs. 19.49 lakhs",
+        "color": "",
+        "age": "",
+        "max_speed": ""
+      },
+      {
+        "model": "Toyota Innova Crysta",
+        "price": "Rs. 17.18 lakhs to Rs. 24.99 lakhs",
+        "color": "",
+        "age": "",
+        "max_speed": ""
+      },
+      {
+        "model": "Toyota Innova Hycross",
+        "price": "Rs. 18.30 lakhs to 28.97 lakhs",
+        "color": "",
+        "age": "",
+        "max_speed": ""
+      },
+      {
+        "model": "Toyota Fortuner",
+        "price": "Rs. 32.59 lakhs to Rs. 50.34 lakhs",
+        "color": "",
+        "age": "",
+        "max_speed": ""
+      },
+      {
+        "model": "Toyota Hilux",
+        "price": "Rs. 33.99 lakhs to Rs. 36.80 lakhs",
+        "color": "",
+        "age": "",
+        "max_speed": ""
+      },
+      {
+        "model": "Toyota Fortuner Legender",
+        "price": "Rs. 42.82 lakhs to Rs. 46.54 lakhs",
+        "color": "",
+        "age": "",
+        "max_speed": ""
+      },
+      {
+        "model": "Toyota Camry",
+        "price": "Rs. 45.25 lakhs",
+        "color": "",
+        "age": "",
+        "max_speed": ""
+      },
+      {
+        "model": "Toyota Vellfire",
+        "price": "Rs. 94.45 lakhs",
+        "color": "",
+        "age": "",
+        "max_speed": ""
+      },
+      {
+        "model": "Toyota Land Cruiser 300",
+        "price": "Rs. 2.10 crores",
+        "color": "",
+        "age": "",
+        "max_speed": ""
+      }
+    ],
+    "Honda": [
+      {
+        "model": "Honda Amaze",
+        "price": "Rs. 6.89 lakhs to Rs. 9.48 lakhs",
+        "color": "",
+        "age": "",
+        "max_speed": ""
+      },
+      {
+        "model": "Honda Jazz",
+        "price": "Rs. 8.01 lakhs to Rs. 10.32 lakhs",
+        "color": "",
+        "age": "",
+        "max_speed": ""
+      },
+      {
+        "model": "Honda WR-V",
+        "price": "Rs. 9.11 lakhs to Rs. 12.31 lakhs",
+        "color": "",
+        "age": "",
+        "max_speed": ""
+      },
+      {
+        "model": "Honda City 4th-gen",
+        "price": "Rs. 9.50 lakhs to Rs. 10 lakhs",
+        "color": "",
+        "age": "",
+        "max_speed": ""
+      },
+      {
+        "model": "Honda City",
+        "price": "Rs. 11.87 lakhs to Rs. 15.62 lakhs",
+        "color": "",
+        "age": "",
+        "max_speed": ""
+      },
+      {
+        "model": "Honda City Hybrid",
+        "price": "Rs. 19.89 lakhs",
+        "color": "",
+        "age": "",
+        "max_speed": ""
+      }
+    ],
+    "Renault": [
+      {
+        "model": "Renault Kwid",
+        "price": "Rs. 4.70 lakhs to Rs. 6.33 lakhs",
+        "color": "",
+        "age": "",
+        "max_speed": ""
+      },
+      {
+        "model": "Renault Triber",
+        "price": "Rs. 6.33 lakhs to Rs. 8.97 lakhs",
+        "color": "",
+        "age": "",
+        "max_speed": ""
+      },
+      {
+        "model": "Renault Kiger",
+        "price": "Rs. 6.50 lakhs to Rs. 11.23 lakhs",
+        "color": "",
+        "age": "",
+        "max_speed": ""
+      }
+     
+    ],
+    "Skoda": [
+      {
+        "model": "Skoda Rapid",
+        "price": "Rs. 7.79 lakhs to Rs. 13.49 lakhs",
+        "color": "",
+        "age": "",
+        "max_speed": ""
+      },
+      {
+        "model": "Skoda Slavia",
+        "price": "Rs. 11.29 lakhs to Rs. 18.40 lakhs",
+        "color": "",
+        "age": "",
+        "max_speed": ""
+      },
+      {
+        "model": "Skoda Kushaq",
+        "price": "Rs. 11.59 lakhs to Rs. 19.69 lakhs",
+        "color": "",
+        "age": "",
+        "max_speed": ""
+      },
+      {
+        "model": "Skoda Octavia",
+        "price": "Rs. 27.35 lakhs to Rs. 30.45 lakhs",
+        "color": "",
+        "age": "",
+        "max_speed": ""
+      },
+      {
+        "model": "Skoda Superb",
+        "price": "Rs. 34.19 lakhs to Rs. 37.29 lakhs",
+        "color": "",
+        "age": "",
+        "max_speed": ""
+      },
+      {
+        "model": "Skoda Kodiaq",
+        "price": "Rs. 37.49 lakhs to Rs. 39.90 lakhs",
+        "color": "",
+        "age": "",
+        "max_speed": ""
+      }
+      
+    ],
+    "MG": [
+      {
+        "model": "MG Astor",
+        "price": "Rs. 10.52 lakhs to Rs. 18.43 lakhs",
+        "color": "",
+        "age": "",
+        "max_speed": ""
+      },
+      {
+        "model": "MG Hector",
+        "price": "Rs. 14.73 lakhs to Rs. 21.73 lakhs",
+        "color": "",
+        "age": "",
+        "max_speed": ""
+      },
+      {
+        "model": "MG Hector Plus",
+        "price": "Rs. 17.50 lakhs to Rs. 22.43 lakhs",
+        "color": "",
+        "age": "",
+        "max_speed": ""
+      },
+      {
+        "model": "MG ZS EV",
+        "price": "Rs. 22.98 lakhs to Rs. 27 lakhs",
+        "color": "",
+        "age": "",
+        "max_speed": ""
+      },
+      {
+        "model": "MG Gloster",
+        "price": "Rs. 32.60 lakhs to Rs. 41.78 lakhs",
+        "color": "",
+        "age": "",
+        "max_speed": ""
+      }
+    ]
+  }
+
